@@ -1,0 +1,3 @@
+main.csv url = https://raw.githubusercontent.com/Glenferdinza/Semua-jenis-File/refs/heads/main/main.csv
+
+Proyek_Analisis_Data_Bike-sharing-dataset_Glenferdinza_Efian url = https://github.com/Glenferdinza/Semua-jenis-File/blob/main/dashboard.py
