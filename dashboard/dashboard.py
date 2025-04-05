@@ -17,8 +17,8 @@ st.write("""
 
 # Load data
 def load_data():
-    day_df = pd.read_csv("https://raw.githubusercontent.com/Glenferdinza/Semua-jenis-File/refs/heads/main/day.csv")
-    hour_df = pd.read_csv("https://raw.githubusercontent.com/Glenferdinza/Semua-jenis-File/refs/heads/main/hour.csv")
+    day_df = pd.read_csv("Data/day.csv")
+    hour_df = pd.read_csv("Data/hour.csv")
     hour_df['dteday'] = pd.to_datetime(hour_df['dteday'])
     return day_df, hour_df
 
