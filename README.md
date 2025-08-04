@@ -1,5 +1,8 @@
 # Proyek Analisis Data: Bike Sharing Dataset
 
+## Live Demo
+Link: https://bikeanalyst-v1.streamlit.app/
+
 ## Petunjuk Penggunaan
 
  Clone Repository
@@ -76,3 +79,4 @@ Proyek ini juga dilengkapi dengan sebuah file notebook bernama Proyek_Analisis_D
 - Pembersihan Data: Langkah-langkah untuk membersihkan dan mempersiapkan data.
 - Visualisasi Data: Grafik dan visualisasi interaktif untuk mendukung analisis.
 - Modeling: Penerapan model prediksi untuk memperkirakan jumlah penyewaan sepeda.
+
